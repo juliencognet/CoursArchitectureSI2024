@@ -100,3 +100,32 @@ Accédez au quiz sur https://joinmyquiz.com
 * A partir du schéma construit à l'activité suivante, choisir comment les modules applicatifs communiquent entre eux, argumenter chaque choix d'échange de données.
 * Rajouter les bases de données permettant de stocker les types de données suivantes: > 💾 Base des données de référence (liste capteurs, besoins de pose...) 💾 Base des données collectées sur les capteurs (historiques de valeurs...) 💾 Informations relatives à l'installation des capteurs (CR d'installation, état des poses)
 
+🔻
+
+## Devoir noté à faire par groupe pour la dernière séance
+
+### Objectifs & critères d'évaluation
+- Etudier en groupe les solutions d'architecture à apporter pour répondre à un critère de **qualité logicielle**
+- Vous serez évalués en groupe sur la **qualité de vos arguements**
+- Vous serez évalués individuellement sur votre **aisance à l'oral et votre capacité à expliquer votre sujet**
+- Vous serez évalués en groupe sur votre **respect du sujet et la façon de le raccrocher à des éléments abordés en cours**
+
+### Consigne
+- Activité à faire en groupe
+- Les groupes se répartissent les critères de qualité suivants (chaque critère de qualité doit être pris au moins une fois):
+    - Adéquation fonctionnelle
+    - Performance
+    - Robustesse
+    - Maintenabilité / évolutivité
+    - Exploitabilité
+    - Portabilité
+    - Empreinte écologique
+    - Sécurité
+ - Votre exposé durera 10min
+ - Tous les membres du groupe doivent présenter une partie de l'exposé à l'oral 
+ - Votre exposé doit suivre le plan suivant:
+    - Importance de la problématique (pourquoi faut-il se soucier de ...)
+    - Questions à poser aux interlocuteurs métier lors des phases d'étude de l'architecture stratégique et fonctionnelle
+    - Critères et moyens de mesure
+    - Quelle solution d'architecture applicative (logicielle et/ou données) apporter ?
+    - Quelle solution d'architecture technique apporter ?  
