@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-02-14T00:50:05.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="JWuvmQo0wVjCjYJ82TG6" version="23.1.4" type="device">
+  <diagram id="vyUpJP2zABHBVocjdXkO" name="Page-1">
+    <mxGraphModel dx="933" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-11" value="Finalités (ENDS)" style="swimlane;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="20" width="340" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;startArrow=none;startFill=0;dashed=1;" parent="4-pv9mD09-mEgDfZBc4K-11" source="4-pv9mD09-mEgDfZBc4K-12" target="4-pv9mD09-mEgDfZBc4K-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-12" value="Vision : état futur que l&#39;entreprise devrait atteindre" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;" parent="4-pv9mD09-mEgDfZBc4K-11" vertex="1">
+          <mxGeometry x="20" y="40" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-13" value="Résultats escomptés" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;" parent="4-pv9mD09-mEgDfZBc4K-11" vertex="1">
+          <mxGeometry x="20" y="190" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-15" value="But : qualitatif - long terme" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;" parent="4-pv9mD09-mEgDfZBc4K-11" vertex="1">
+          <mxGeometry x="30" y="220" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-16" value="Objectif : SMART (Spécifique, Mesurable, Ambitieux, Réaliste, limité dans le Temps)" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;" parent="4-pv9mD09-mEgDfZBc4K-11" vertex="1">
+          <mxGeometry x="30" y="340" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-19" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="4-pv9mD09-mEgDfZBc4K-11" source="4-pv9mD09-mEgDfZBc4K-16" target="4-pv9mD09-mEgDfZBc4K-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-200" y="350" as="sourcePoint" />
+            <mxPoint x="-200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="4-pv9mD09-mEgDfZBc4K-3" target="4-pv9mD09-mEgDfZBc4K-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-3" value="Plan d&#39;actions" style="outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingTop=0;html=1;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="210" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-4" value="Stratégie : composant du plan pour atteindre les résultats" style="outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=0;html=1;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="240" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-5" value="Tactique : implémente une stratégie" style="outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=0;html=1;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4-pv9mD09-mEgDfZBc4K-5" target="4-pv9mD09-mEgDfZBc4K-4" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="130" as="sourcePoint" />
+            <mxPoint x="440" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-8" value="Moyens (MEANS)" style="swimlane;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="340" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-9" value="Mission : état actuel de l&#39;entreprise" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;" parent="4-pv9mD09-mEgDfZBc4K-8" vertex="1">
+          <mxGeometry x="20" y="40" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4-pv9mD09-mEgDfZBc4K-20" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4-pv9mD09-mEgDfZBc4K-8" target="4-pv9mD09-mEgDfZBc4K-11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="370" as="sourcePoint" />
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-3" value="SWOT" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="740" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-5" value="Evaluation interne" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="58" y="540" width="710" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-6" value="Evaluation" style="swimlane;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="475" width="780" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-8" value="Forces" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;verticalAlign=top;" vertex="1" parent="28kg1RmTMYybfg_PCbHH-6">
+          <mxGeometry x="50" y="98" width="340" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-9" value="Forces" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="572.5" width="340" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-10" value="Evaluation interne" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="55" y="720" width="710" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-11" value="Opportunités" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="28kg1RmTMYybfg_PCbHH-12" value="Menaces" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="760" width="340" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
