@@ -106,10 +106,29 @@ Accédez au quiz sur https://joinmyquiz.com
 ### Objectifs du TD
 *	Apprendre à réaliser une modélisation de base de données
 ### Description de l’activité
-* Modéliser avec DBDiagram (https://dbdiagram.iot/d) le modèle logique relationnel de données qui permet de modéliser le sous-domaine de notre cas fil rouge
+* Modéliser avec DBDiagram (https://dbdiagram.io/d) le modèle logique relationnel de données qui permet de modéliser le sous-domaine de notre cas fil rouge
 ### Sous-domaine à modéliser
 * Un besoin de pose identifie le besoin d’installer plusieurs capteurs d’un certain type sur un site avant une date cible.
 * Lors de l’installation d’un capteur, un technicien identifié par son matricule et son nom sélectionne un capteur physique identifié par son identifiant unique et l’installe sur un site à un emplacement donné pour répondre à un besoin de pose à une date d’installation donnée.
+
+🔻
+
+## A9 – Architecture de données - Concevoir le modèle en étoile permettant d'analyser l'activité 
+### Objectifs du TD
+*	Apprendre à réaliser une modélisation de base de données
+### Description de l’activité
+* Modéliser avec DBDiagram (https://dbdiagram.io/d) le modèle logique relationnel de données qui permet de modéliser le sous-domaine de notre cas fil rouge
+### Problème à résoudre
+* Contexte: analyse des succès / échecs d’installation
+* De nombreuses installation de capteurs IoT se terminent en échec actuellement. Nos ingénieurs d’exploitation souhaitent en déterminer les causes. Par conséquent, ils souhaitent obtenir un reporting analytique qui leur permet d’analyser les causes de succès et d’échec suivant différents axes. 
+* A partir du modèle de données précédent, concevoir le star schéma qui permettra d’analyser le problème suivant les différentes dimensions.
+* Déterminer d’abord quelles sont les métriques analysées
+* En déduire la table de faits,
+* Puis ajouter toutes les dimensions disponibles sous forme de tables additionnelles jointes à la table de faits
+
+
+
+
 
 🔻
 
