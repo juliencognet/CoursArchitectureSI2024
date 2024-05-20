@@ -110,6 +110,9 @@ Accédez au quiz sur https://joinmyquiz.com
 ### Sous-domaine à modéliser
 * Un besoin de pose identifie le besoin d’installer plusieurs capteurs d’un certain type sur un site avant une date cible.
 * Lors de l’installation d’un capteur, un technicien identifié par son matricule et son nom sélectionne un capteur physique identifié par son identifiant unique et l’installe sur un site à un emplacement donné pour répondre à un besoin de pose à une date d’installation donnée.
+* Enfin, l’installateur fournira un statut d’installation pour préciser si l’installation s’est terminée en succès ou en échec.
+* En cas d’échec, le technicien doit saisir une cause d’échec parmi une liste de causes disponibles.
+
 
 🔻
 
