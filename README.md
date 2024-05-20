@@ -102,6 +102,17 @@ Accédez au quiz sur https://joinmyquiz.com
 
 🔻
 
+## A8 – Architecture de données - Concevoir le modèle logique de données relationnelles
+### Objectifs du TD
+*	Apprendre à réaliser une modélisation de base de données
+### Description de l’activité
+* Modéliser avec DBDiagram (https://dbdiagram.iot/d) le modèle logique relationnel de données qui permet de modéliser le sous-domaine de notre cas fil rouge
+### Sous-domaine à modéliser
+* Un besoin de pose identifie le besoin d’installer plusieurs capteurs d’un certain type sur un site avant une date cible.
+* Lors de l’installation d’un capteur, un technicien identifié par son matricule et son nom sélectionne un capteur physique identifié par son identifiant unique et l’installe sur un site à un emplacement donné pour répondre à un besoin de pose à une date d’installation donnée.
+
+🔻
+
 ## Devoir noté à faire par groupe pour la dernière séance
 
 ### Objectifs & critères d'évaluation
