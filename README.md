@@ -90,6 +90,21 @@ Accédez au quiz sur https://joinmyquiz.com
 
 - Dessinez les niveaux Context et Containers de cette architecture en précisant les interactions entre les différents composants / utilisateurs
 
+### Processus métier
+![image](https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7dc22dd0-6a61-48a0-bf1c-b9604c24fb1b)
+
+* Un ingénieur d'exploitation définit les besoins de pose de capteurs dans l'application exploitation
+* Il achète ensuite des capteurs et les déclare dans un référentiel de capteurs.
+* Quand il déclare ces capteurs, une action sera automatiquement réalisée sur les portails des opérateurs télécom (Objenious ou LiveObject) pour déclarer les capteurs qui seront installés (pour qu’ils puissent être reconnus par le réseau).
+* Un technicien récupère grâce à son application mobile de pose une liste de besoins de pose à pourvoir, il récupère des capteurs physiques.
+* Ces capteurs physiques sont ensuite installés sur site. 
+* Lors de l’installation, il passe un aimant sur le capteur qui se met à émettre des données sur le réseau Lora.
+* Les données transitent alors sur le réseau LoraWan, sont interceptées par un opérateur LoraWan qui pousse ensuite les données de façon asynchrone au système de collecte, traitement et sauvegarde des données.
+* Le système de collecte, traitement et sauvegarde des données vérifie si les données qu'il reçoit correspondent à des capteurs déclarés dans le référentiel de capteurs. Si c'est le cas, il historise les valeurs reçues dans une base de données historique.
+* Si jamais les données ne sont pas reçues côté Dalkia, il doit repasser plusieurs jours après pour réinstaller le capteur ou le remplacer.
+* Enfin les clients de Dalkia peuvent accéder à leurs données historisés via un portail client. Le portail client (hors scope du système étudié) utilise une API d'exposition des données externes fournies par notre système d'information.
+
+
 🔻
 
 ## A7 – Architecture d'intégration - choisir le meilleur mode de communication entre chaque brique logicielle
