@@ -118,10 +118,7 @@ Accédez au quiz sur https://joinmyquiz.com
 
 ### Indications supplémentaires
 * Pour la sécurité du personnel qui intervient dans les chaudières, des capteurs de présences IoT sont installés dans les locaux qui hébergent les équipements. Si une personne est détectée, alors aucune commande ne doit être envoyée à l'équipement de chauffage, et c'est l'information de présence qui permet de gérer cette interdiction.
-
->    <details>
->    <summary>Schéma duquel partir pour choisir les modes de communications</summary>
-> ![image](https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616)
+* Schéma duquel partir pour choisir les modes de communications : https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616
 
 
 🔻
