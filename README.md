@@ -152,11 +152,50 @@ Accédez au quiz sur https://joinmyquiz.com
 * En déduire la table de faits,
 * Puis ajouter toutes les dimensions disponibles sous forme de tables additionnelles jointes à la table de faits
 
+🔻
 
+## A10 – Architecture technique de la solution IoT hébergée On Premise
 
+### Objectifs du TD
+*	Appréhender les concepts de l'architecture technique
+### Description de l’activité
+* Dessiner le schéma d’architecture (format libre, utiliser par exemple draw.io)
+* Eléments à ne pas oublier:
+  * Choix de bases de données
+  * Positionner les middleware (BDD, Bus de message, API Gateway…)
+  * Penser à la redondance
+  * Zones de sécurité réseau
+  * Distinguer les zones Front-End / Back-End
+  * Distinguer le périmètre interne du périmètre externe
+  * Hors schéma : préciser le mode d’hébergement (Bare metal, Virtual Machine, Docker, K8s) et la raison associée
 
+### Exigences non fonctionnelles
+* Contrainte de disponibilité sur le service de récupération des données disponible 24/7 avec une disponibilité de 99,9%
+* Scalabilité: 1000 techniciens / 20 ingénieurs d’exploitation / 2 millions de capteurs (cible à 10 millions dans 3 ans)
+* Périmètre: référentiel de capteurs IoT, application mobile de déploiement et chaîne de récupération des données
 
 🔻
+
+## A11 – Architecture technique de la solution IoT hébergée sur le cloud
+
+### Objectifs du TD
+*	Appréhender les concepts de l'architecture technique
+### Description de l’activité
+* Choix d’un provider Cloud 
+* Choix des services Cloud parmi les catégories Intégration d’applications, Calculs, Conteneurs, Base de données, Sans serveur, Stockage
+* Type de services (IAAS, PAAS, CAAS, FAAS…)
+* Penser à la redondance
+* Zones de sécurité réseau / data center / availability zones
+* Distinguer les zones Front-End / Back-End
+* Distinguer le périmètre interne du périmètre externe
+
+### Exigences non fonctionnelles
+* Contrainte de disponibilité sur le service de récupération des données disponible 24/7 avec une disponibilité de 99,9%
+* Scalabilité: 1000 techniciens / 20 ingénieurs d’exploitation / 2 millions de capteurs (cible à 10 millions dans 3 ans)
+* Périmètre: référentiel de capteurs IoT, application mobile de déploiement et chaîne de récupération des données
+
+🔻
+
 
 ## Devoir noté à faire par groupe pour la dernière séance
 
