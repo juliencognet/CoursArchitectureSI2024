@@ -114,6 +114,7 @@ Accédez au quiz sur https://joinmyquiz.com
 ### Description de l’activité
 * A partir du schéma construit à l'activité suivante, choisir comment les modules applicatifs communiquent entre eux, argumenter chaque choix d'échange de données.
 * Rajouter les bases de données permettant de stocker les types de données suivantes: > 💾 Base des données de référence (liste capteurs, besoins de pose...) 💾 Base des données collectées sur les capteurs (historiques de valeurs...) 💾 Informations relatives à l'installation des capteurs (CR d'installation, état des poses)
+![image](https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616)
 
 🔻
 
