@@ -119,6 +119,7 @@ Accédez au quiz sur https://joinmyquiz.com
 ### Indications supplémentaires
 * Schéma duquel partir pour choisir les modes de communications : https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616
 * Pour la sécurité du personnel qui intervient dans les chaudières, des capteurs de présences IoT sont installés dans les locaux qui hébergent les équipements. Si une personne est détectée, alors aucune commande ne doit être envoyée à l'équipement de chauffage, et c'est l'information de présence qui permet de gérer cette interdiction.
+* Lorsqu'un technicien intervient sur une chaudière, celle-ci est souvent en sous-sol et ne permet pas d'accéder au réseau. Par conséquent, l'application mobile doit prévoir un mode déconnecté avec un envoi asynchrone des données lorsqu'il retrouve le réseau.
 * Le schéma support de l'exercice propose 2 bases de données pour stocker les informations manipulées par notre application. Cela force un mode de communication entre certains composants du système. Est-ce une bonne pratique ? Quelle alternative pourrait-on proposer ? Quels sont les avantages et inconvénients à dupliquer les données ?
 
 
