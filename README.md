@@ -116,6 +116,9 @@ Accédez au quiz sur https://joinmyquiz.com
 * Rajouter les bases de données permettant de stocker les types de données suivantes: > 💾 Base des données de référence (liste capteurs, besoins de pose...) 💾 Base des données collectées sur les capteurs (historiques de valeurs...) 💾 Informations relatives à l'installation des capteurs (CR d'installation, état des poses)
 ![image](https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616)
 
+### Indications supplémentaires
+* Pour la sécurité du personnel qui intervient dans les chaudières, des capteurs de présences IoT sont installés dans les locaux qui hébergent les équipements. Si une personne est détectée, alors aucune commande ne doit être envoyée à l'équipement de chauffage, et c'est l'information de présence qui permet de gérer cette interdiction.
+
 🔻
 
 ## A8 – Architecture de données - Concevoir le modèle logique de données relationnelles
