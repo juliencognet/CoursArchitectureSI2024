@@ -121,7 +121,7 @@ Accédez au quiz sur https://joinmyquiz.com
 
 >    <details>
 >    <summary>Schéma duquel partir pour choisir les modes de communications</summary>
->![image](https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616)
+> ![image](https://github.com/juliencognet/CoursArchitectureSI2024/assets/26428851/7332016b-f729-4a06-a7ba-f5c7817fd616)
 
 
 🔻
